@@ -42,5 +42,5 @@ zaynah.account.deposit(20), zaynah.account.deposit(50), zaynah.account.deposit(6
 zaynah.account.display_account_info()
 
 
-jim.account.deposit(30), jim.account.deposit(85), jim.account.deposit(5), jim.account.withdraw (130),jim.account.yield_interest()
+jim.account.deposit(30), jim.account.deposit(5), jim.account.withdraw (5),jim.account.withdraw (10),jim.account.withdraw (5),jim.account.withdraw (15),jim.account.yield_interest()
 jim.account.display_account_info()
